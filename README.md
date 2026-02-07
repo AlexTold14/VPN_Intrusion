@@ -62,4 +62,3 @@
 74.249.128.83
 80.14.252.103
 87.236.176.148
-<img width="104" height="1281" alt="image" src="https://github.com/user-attachments/assets/5d877f89-7405-4d4f-b547-891f3fe2bf62" />
